@@ -1,0 +1,88 @@
+## PROMPT 1
+
+Hi ChatGPT,
+
+I'm participating in an event called Replicate Rush, where I'll be using ChatGPT 3.5 to build a website provided by the organizers. Please take a moment to familiarize yourself with the rules and regulations below, as they outline the guidelines for this competition. The participants who can replicate the website with fewer prompts will be declared winners.
+
+Rules and Regulations:
+
+1. Participants are not required to bring their own laptops or devices; the event organizers will provide necessary computing resources and tools.
+2. ChatGPT 3.5 is the sole model allowed for this event.
+3. Each participant is limited to a specific number of attempts to instruct the model for website replication.
+4. A specified time limit is enforced to ensure a fair and competitive environment.
+5. The replicated website should closely resemble the provided reference website in terms of layout, design, and content.
+6. Basic functionalities of the reference website, such as navigation menus, links, and interactive elements, should be replicated.
+7. Any form of cheating or using external tools, except the allowed model, is strictly prohibited.
+8. Evaluation of the replicated websites will be conducted by a panel of judges based on predefined criteria.
+9. Judges' decisions are final and binding.
+
+Additionally, please ensure not to deviate from the instructions provided and focus on accuracy. Now, let's get started by setting up the basic structure for the homepage. Replicate the layout and key elements as closely as possible to the reference website.
+
+Thank you, and let's begin!
+
+For the start of Replicate Rush, let's focus on the homepage's basic structure. Generate HTML, CSS, and JS codes to create a layout that closely resembles the reference website. Include a header, navigation menu, and a main content section. Ensure a clean and responsive design, utilizing a background color of #f0f0f0 for the body. Pay attention to accuracy in replicating the reference site's key elements.
+Include a header, navigation menu, and a main content section.
+the navigation bar need to have hrefs DESTINATION  ,  GALLERY , DISCOVER   , NEWS  ,  LOGIN 
+create a seperate class for logo and a class for nav bar and the website needs to be split into parts
+div 1 of website it needs to occupy half od the webpage and the other half has to inlucde different pic so the background image has 2 images
+Ensure a clean and responsive design, utilizing a background color of #f0f0f0 for the body. Pay attention to accuracy in replicating the reference site's key elements.
+
+                                                   -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+ ## PROMPT 2
+ 
+ In this phase of the website replication challenge, let's delve into meticulous design specifications. Please generate HTML, CSS, and JS codes for the following elements, ensuring precise styling details:
+
+1. Background:
+   a. Define two  class named "background-container1. , "  background-container2
+1)background container one should be aligneed to left
+and it needs to have 
+logo
+and in the center title  great art of bali 
+
+under  it a para  telsuri keindahan bali yang<br> belum Pernah Anda Temui Se Sebbelumnya
+
+
+2) in the background-container2
+the destination gallery discover news login (in upper caps as statedd above needs to be there)
+and a pic as backgrounf 
+
+b. Add a background images using a placeholder URL,
+the backgorund image  needds to have 2 pics(one inbackground-container1 and one more in background-container2)  with a s curve in the middle 
+
+3. Header and Navigation:
+   follow 2 classes and give as told above
+      - Apply a hover effect and when hovererd a line needs to come below the button and login needs to be in recatnfle with border radius making its edges curve and when hovered over login it needs to turn red color
+
+
+Ensure the code generated adheres to these detailed styling instructions. Feel free to use a placeholder website example when generating the style properties.
+
+                                                          -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+
+
+## PROMPT 3
+
+Continuing from the previous instructions, let's further refine and finalize the styling of our home page. Generate HTML, CSS, and JS codes for the following elements, building upon the changes made in Prompt 2:
+
+1. Header:
+  and in the left side ie in left side where logo is there it is not pic it is a text Bali Travel Time in dark pink colour in ipsium font style (only this is in pink)the rest destination...login everything all in white 
+2. Navigation bar
+    a.thanks i have got my hover effect for destination  gallery discover news and login  now what update i want is login button doesnt have a  border add border to login href alone (rest all hrefs needs to be same  like only the hover effect)
+and login when hovered it needs to turn into dark pink colour 
+
+3. Body Content:
+   great art of bali and other para thinsg which i told u in prompt 2 has been aligned in center 
+i need it to align in center of  n the background-container1(ie left side)
+
+4. Images:
+  the page needs to be filled with 2 pics as told earlier
+and when wee scroll down a new page needs to open and when scrolled only navigation bar needs to be there 
+all bali travel time desination...login all in same line
+
+Ensure that the generated codes align with the provided details and maintain accuracy in replicating the original website design. Thank you!
+
+                                                -x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-
+
+
+"Presenting our initial 3 prompts on GitHub! Witness our journey as we accomplished the entire project using just 15 prompts."
