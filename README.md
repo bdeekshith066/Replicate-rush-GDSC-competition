@@ -20,4 +20,6 @@ Explore the code, and witness the magic of rapid web development! 🚀✨
 
 ![delete pic 1](https://github.com/bdeekshith066/Replicate-rush-GDSC-competition/assets/130782878/366a81d5-819b-410a-bf97-a1975979e748)
 
+<img width="947" alt="delete pic 2" src="https://github.com/bdeekshith066/Replicate-rush-GDSC-competition/assets/130782878/479afe3c-a73b-4aee-b507-c8383c63870f">
+
 
